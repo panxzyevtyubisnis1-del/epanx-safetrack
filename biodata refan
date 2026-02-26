@@ -1,0 +1,17 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodata Refan</title>
+</head>
+<body>
+    <h1>Biodata Refan</h1>
+
+    <p><b>Nama:</b> Refan</p>
+    <p><b>Umur:</b> 15 tahun</p>
+    <p><b>Hobi:</b> Bermain game</p>
+    <p><b>Cita-cita:</b> Pebisnis sukses</p>
+
+    <p>Saya ingin menjadi programmer sukses dan membantu keluarga.</p>
+</body>
+</html>
